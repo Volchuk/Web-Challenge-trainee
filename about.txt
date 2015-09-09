@@ -1,0 +1,34 @@
+Good day to You!
+
+I'd like to tell You why I decided to work in IT.
+
+Everything started in university, when Google representatives
+organized conference and invited to apply for internship.
+
+I was amazed how close to me was the possibilities to work 
+on interesting project in sphere I'm interested.
+
+What should I mention that was always passionate about computer
+technologies: programming, mathematical instruments, drawing etc.
+
+Beside my university courses in computer sciences
+I started learning Java, developer's tools, Linux OS
+through books, websites and courses.
+
+
+Добрый день!
+
+Я хотел бы рассказать вам, почему я решил работать в ІТ.
+
+Все началось в университете, когда представители Google
+организовали конференцию и пригласили на стажировку.
+
+Я был поражен, как близки ко меня возможности работать над 
+интересными проектами, в сфере которая меня интересует.
+
+Что должен упомянуть, что всегда был увлечен компьютерными
+технологиями: программированием, математическими инструментами, рисованием т.д.
+
+Кроме моей университетской программмы в области компьютерных наук
+Я начал учить Java, инструменты разработчика, Linux
+с помощью книг, веб-сайтой и курсов.

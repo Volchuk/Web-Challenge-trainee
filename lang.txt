@@ -1,0 +1,10 @@
+Server side language I use:
+Java via Java Server Pages
+I'm using JSP because it's convenient built on my previous
+experience and knowledge and logically extends studying Java.
+
+What do I know about PHP:
+Widespread script language for creating dynamic web-pages, web-applications.
+
+Unfortunately I don't have solid experience with PHP.
+I have worked with Joomla and WordPress.
